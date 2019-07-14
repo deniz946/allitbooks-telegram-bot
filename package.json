@@ -1,0 +1,26 @@
+{
+  "name": "allitbooks-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for searching and downloading books from allitbooks",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deniz946/allitbooks-telegram-bot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "allitbooks",
+    "allitbooks",
+    "search"
+  ],
+  "author": "deniz946",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deniz946/allitbooks-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/deniz946/allitbooks-telegram-bot#readme"
+}
